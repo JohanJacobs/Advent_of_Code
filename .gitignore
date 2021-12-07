@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.vcxproj
+*.sln
+2021/cpp/.vs/CPP_AoC/project-colors.json
+2021/cpp/.vs/CPP_AoC/v17/Browse.VC.db
+2021/cpp/.vs/CPP_AoC/v17/
+2021/cpp/bin-int/
